@@ -17,6 +17,8 @@ fn check_palindrome(word: &str) -> bool {
 }
 
 
+
+// some changes
 // question 02
 fn get_first_occurrance(arr: &[isize], target: isize) -> usize {
 
